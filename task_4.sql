@@ -9,4 +9,3 @@ AND TABLE_NAME = 'Books';
 
 
 
-9
